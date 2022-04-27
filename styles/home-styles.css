@@ -1,0 +1,70 @@
+.content {
+    background-image: url('../assets/bg-transparent.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+/* header navigation styles */
+
+/* .toggle {
+    display: none;
+} */
+
+header nav {
+    height: 20vw;
+    width: fit-content;
+    padding-top: 2.5vw;
+    margin-left: 13vw;
+}
+
+/* hero styles */
+
+.hero {
+    margin-left: 14vw;
+    margin-top: 2vw;
+}
+
+.hero h3 {
+    font-weight: 400;
+    font-size: 1vw;
+    margin: 1vw 0 1vw 0;
+}
+
+.hero button {
+    font-size: 1vw;
+}
+
+/* main styles */
+
+.p-index {
+    width: fit-content;
+    font-size: 1.2vw;
+    margin-left: 42vw;
+    margin-bottom: 3vw;
+    width: 38vw;
+}
+
+.subheader-index-1 {
+    width: fit-content;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2vw;
+    font-weight: 900;
+    margin: 14vw 0 3vw 31vw;
+}
+
+.subheader-index-2 {
+    width: fit-content;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2vw;
+    font-weight: 900;
+    margin: 12vw 0 3vw 58vw;
+}
+
+.resource-index-1 {
+    margin-left: 45vw;
+}
+
+.resource-index-2 {
+    margin-left: 5vw;
+}

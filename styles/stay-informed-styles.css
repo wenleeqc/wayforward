@@ -1,0 +1,47 @@
+.content {
+    background-image: url('../assets/bg-stay-informed.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+/* header navigation styles */
+
+header nav {
+    height: 20vw;
+    width: fit-content;
+    padding-top: 2.5vw;
+    margin-left: 13vw;
+}
+
+.hero {
+    width: 45vw;
+    margin-left: 13vw;
+    margin-top: 3vw;
+    margin-bottom: 5vw;
+}
+
+.hero h3 {
+    font-weight: 800;
+    font-size: 1.2vw;
+    margin: 1vw 0 1vw 0;
+}
+
+.news {
+    width: 45vw;
+    margin-left: 13vw;
+}
+
+.news h2 {
+    font-size: 2.5vw;
+    margin-bottom: 2vw;
+}
+
+.news li {
+    font-size: 1.2vw;
+    margin-bottom: 1vw;
+}
+
+.news ul:last-child {
+    margin-bottom: 5vw;
+}

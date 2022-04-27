@@ -1,0 +1,66 @@
+.content {
+    background-image: url('../assets/bg-contact-us.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+/* header navigation styles */
+
+header nav {
+    height: 20vw;
+    width: fit-content;
+    padding-top: 2.5vw;
+    margin-left: 13vw;
+}
+
+.hero {
+    width: 33vw;
+    margin-left: 13vw;
+    margin-top: 3vw;
+    margin-bottom: 5vw;
+}
+
+.hero h3 {
+    font-weight: 800;
+    font-size: 1.2vw;
+    margin: 1vw 0 1vw 0;
+}
+
+.your-story {
+    width: 45vw;
+    margin-left: 13vw;
+}
+
+.your-story h2 {
+    font-size: 2.5vw;
+    margin-bottom: 2vw;
+}
+
+.your-story p {
+    font-size: 1.2vw;
+    margin-bottom: 3vw;
+}
+
+.your-story textarea {
+    border: solid .1vw var(--primary-color);
+    outline: none;
+    resize: none;
+    width: 42vw;
+    height: 35vw;
+    padding: 2vw;
+    color: var(--primary-color);
+    margin-bottom: 1vw;
+}
+
+.your-story textarea::placeholder {
+    color: var(--primary-color);
+    opacity: .5;
+    font-size: 1.2vw;
+}
+
+.your-story button {
+    font-size: 1vw;
+    margin-right: 1vw;
+    margin-bottom: 15vw;
+}

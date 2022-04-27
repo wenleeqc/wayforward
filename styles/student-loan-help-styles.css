@@ -1,0 +1,67 @@
+.content {
+    background-image: url('../assets/bg-student-loan-help.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+  }
+
+/* header navigation styles */
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  
+  header nav {
+    height: 20vw;
+    width: fit-content;
+    padding-top: 2.5vw;
+    margin-right: 13vw;
+  }
+
+  .hero {
+    width: 42vw;
+    margin: 0 10vw 5vw 0;
+  }
+  
+  .hero h3 {
+    font-weight: 800;
+    font-size: 1.2vw;
+    margin: 1vw 0 0 0;
+  }
+
+  .tools {
+    margin: 0 10vw 5vw 0;
+  }
+
+  .module {
+      display: inline-block;
+      width: 35vw;
+  }
+
+  .resource2 {
+    display: flex;
+    justify-content: right;
+    font-size:  1.1vw;
+    margin-bottom: 8vw;
+    /* height:fit-content; */
+  }
+
+  .image {
+      align-self: center;
+      margin-right: 2vw;
+  }
+
+  .image1 img {
+    width: 16vw;
+  }
+
+  .image2 img {
+    width: 20vw;
+  }
+
+  .image3 img {
+    background-color: var(--white);
+    width: 10vw;
+  }
