@@ -1,6 +1,8 @@
 # WayForward
 
-A website I designed for a fictional nonprofit organization that is trying to bring awareness to the student debt crisis. I concepted and designed the overall visual direction for the site.
+A spec website I designed for a fictional nonprofit organization that is trying to bring awareness to the student debt crisis. I concepted and designed the overall visual direction for the site.
+
+All copy pulled from the very real Student Debt Crisis Center, a nonprofit fighting to end the student debt crisis: https://studentdebtcrisis.org/
 
 A working demo can be found here: https://wayforward.glitch.me/index.html
 
