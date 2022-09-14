@@ -12,7 +12,6 @@ A working demo can be found here: https://wayforward.glitch.me/index.html
 ## Built With
 - HTML
 - CSS
-- Javascript
 
 
 
