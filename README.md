@@ -13,8 +13,6 @@ A working demo can be found here: https://wayforward.glitch.me/index.html
 - HTML
 - CSS
 
-
-
 ## Todos
 - [ ] Refactor HTML and CSS
 - [ ] Some CSS animation still a little buggy (navigation menu for mobile)
