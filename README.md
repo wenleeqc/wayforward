@@ -9,6 +9,9 @@ A working demo can be found here: https://wayforward.glitch.me/index.html
 ## Screenshot
 <img src="https://user-images.githubusercontent.com/74733659/165551468-c6e2a450-6f88-4013-bd28-181b02724edf.png" width=500>
 
+## Walkthrough
+![wayforward walkthrough](https://github.com/wenleeqc/wayforward/blob/c77bf22dac664e72f78d59608af3693dd69aca3d/wayforward.gif)
+
 ## Built With
 - HTML
 - CSS
